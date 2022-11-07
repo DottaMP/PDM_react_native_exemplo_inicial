@@ -1,0 +1,10 @@
+Criar aplicativo app react native com o Expo:
+npx create-expo-app nomeApp
+Instalar para abrir no web: npx expo install react-native-web@0.18.7 react-dom@18.0.0 @expo/webpack-config@^0.17.0
+
+android studio
+ou
+genymotion for personal use
+
+Aplicativo do celular:
+expo go
